@@ -1,22 +1,22 @@
 # Polymerlabs Social Media Pack is a repo prepared for the use of Polymer's social media accounts in case of need.
 
 -------------------------------------------------------------
-X Banners (Formerly Twitter)
+X Banners (Formerly Twitter):
 For the use of Polymer's X accounts in case of need.
 Prepared in accordance with the format in size 1500px x 500px 
 -------------------------------------------------------------
 
 -------------------------------------------------------------
-Instagram Posts
+Instagram Posts:
 Working on it...
 -------------------------------------------------------------
 
 -------------------------------------------------------------
-Intros
+Intros:
 Working on it...
 -------------------------------------------------------------
 
 -------------------------------------------------------------
-Video Posts
+Video Posts:
 Working on it...
 -------------------------------------------------------------
