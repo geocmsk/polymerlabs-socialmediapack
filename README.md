@@ -14,11 +14,10 @@ For the use of Polymer's Instagram accounts in case of need. Prepared in accorda
 -------------------------------------------------------------
 
 -------------------------------------------------------------
-Intros:
-Working on it...
+INTROs & Video Posts:
+For the use of Polymer's Social Media Posts in case of need. Prepared in accordance with the format in size 1920px x 1080px
 -------------------------------------------------------------
 
--------------------------------------------------------------
-Video Posts:
-Working on it...
--------------------------------------------------------------
+I present it to your liking.
+CemS
+
