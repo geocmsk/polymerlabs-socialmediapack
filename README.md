@@ -1,6 +1,6 @@
 # Polymerlabs Social Media Pack is a repo prepared for the use of Polymer's social media accounts in case of need.
 
-* In order to make the designs unique to Polymer, artificial intelligence was used for background images.
+* Artificial intelligence was used for background images to make the designs unique to Polymer. The composition was completed using Photoshop and CorelDRAW.
 
 -------------------------------------------------------------
 X Banners (Formerly Twitter):
