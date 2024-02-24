@@ -18,6 +18,6 @@ INTROs & Video Posts:
 For the use of Polymer's Social Media Posts in case of need. Prepared in accordance with the format in size 1920px x 1080px
 -------------------------------------------------------------
 
-I present it to your liking.
-CemS
+# I present it to your likings.
+# CemS
 
