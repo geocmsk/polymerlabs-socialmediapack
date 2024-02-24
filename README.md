@@ -10,7 +10,7 @@ Prepared in accordance with the format in size 1500px x 500px
 
 -------------------------------------------------------------
 Instagram Posts:
-Working on it...
+For the use of Polymer's Instagram accounts in case of need. Prepared in accordance with the format in size 1000px x 1000px
 -------------------------------------------------------------
 
 -------------------------------------------------------------
